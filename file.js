@@ -11,6 +11,10 @@
 
 const names = require('./4-export');
 const sayHi = require('./5-util');
+
+const person=require('./ulternative');
+
+console.log(person);
 sayHi(names.john);
 sayHi(names.prety);
 sayHi("subhransu");
