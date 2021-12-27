@@ -14,6 +14,8 @@ const sayHi = require('./5-util');
 
 const person=require('./ulternative');
 
+require('./mindgrenade');
+
 console.log(person);
 sayHi(names.john);
 sayHi(names.prety);
