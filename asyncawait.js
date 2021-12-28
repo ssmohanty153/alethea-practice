@@ -21,9 +21,10 @@ const getText=(path)=>{
  const start=async()=>{
      try{
          const first=await getText('./filePath/first.txt');
-         console.log(first);
-     }
-     catch (error){
+         const second=await getText('./filePath/second.txt');
+         console.log(first,second);
+        }
+        catch (error){
 
      }
  }
