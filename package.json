@@ -1,0 +1,23 @@
+{
+  "name": "alethea-practice",
+  "version": "1.0.0",
+  "description": "//here we write our code and node js",
+  "main": "4-export.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssmohanty153/alethea-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssmohanty153/alethea-practice/issues"
+  },
+  "homepage": "https://github.com/ssmohanty153/alethea-practice#readme",
+  "keywords": [],
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
